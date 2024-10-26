@@ -7,15 +7,12 @@ link-opt.diff
 setup-modules.diff
 langpack-gettext.diff
 disable-sem-check.diff
-lib-argparse.diff
 ctypes-arm.diff
 multiarch.diff
 lib2to3-no-pickled-grammar.diff
 test-no-random-order.diff
-tempfile-minimal.diff
 reproducible-buildinfo.diff
 pydoc-use-pager.diff
-argparse-no-shutil.diff
 sysconfigdata-name.patch
 destshared-location.patch
 allow-old-autoconf.patch
