@@ -28,10 +28,10 @@ index 8d0f5fc..8ca8f83 100644
  
  
 diff --git a/Makefile.pre.in b/Makefile.pre.in
-index 1c55e02..69ca340 100644
+index c4eab95..97fd628 100644
 --- a/Makefile.pre.in
 +++ b/Makefile.pre.in
-@@ -2329,8 +2329,10 @@ libinstall:	all $(srcdir)/Modules/xxmodule.c
+@@ -2331,8 +2331,10 @@ libinstall:	all $(srcdir)/Modules/xxmodule.c
  			esac; \
  		done; \
  	done
