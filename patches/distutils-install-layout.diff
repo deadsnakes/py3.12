@@ -71,7 +71,7 @@ index aed254a..7e160eb 100644
              sitepackages.append(prefix)
              sitepackages.append(os.path.join(prefix, "Lib", "site-packages"))
 diff --git a/Lib/sysconfig.py b/Lib/sysconfig.py
-index 7dd63b9..252accb 100644
+index acc8d4d..5606661 100644
 --- a/Lib/sysconfig.py
 +++ b/Lib/sysconfig.py
 @@ -96,6 +96,30 @@
@@ -105,7 +105,7 @@ index 7dd63b9..252accb 100644
      }
  
  # For the OS-native venv scheme, we essentially provide an alias:
-@@ -292,11 +316,26 @@ def _get_preferred_schemes():
+@@ -299,11 +323,26 @@ def _get_preferred_schemes():
              'home': 'posix_home',
              'user': 'osx_framework_user',
          }
