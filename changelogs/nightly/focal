@@ -1,3 +1,9 @@
+python3.12 (3.12.10-5-g0c92fc364c-1+focal1) focal; urgency=medium
+
+  * Update to v3.12.10-5-g0c92fc364c.
+
+ -- Anthony Sottile (deadsnakes) <asottile+deadsnakes@umich.edu>  Thu, 15 May 2025 08:54:47 +0000
+
 python3.12 (3.12.10-4-g483729fbc6-1+focal1) focal; urgency=medium
 
   * Update to v3.12.10-4-g483729fbc6.
