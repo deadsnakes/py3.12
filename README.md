@@ -5,7 +5,6 @@ py3.12
 
 [mainline] and [nightly] builds are current supported for:
 
-- focal
 - jammy
 
 [mainline]: https://launchpad.net/~deadsnakes/+archive/ubuntu/ppa
